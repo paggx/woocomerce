@@ -1,1 +1,1 @@
-Modulo de pagamento woocommerce para paggx.com.br
+Módulo de pagamento para woocomerce https://paggx.com.br
